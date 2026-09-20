@@ -1,4 +1,4 @@
-# Hi there, I'm Sahil Chaurasiya 👋
+# Hi there, I'm Sahil Chourasiya 👋
 
 ### Full Stack Developer | MERN Stack Enthusiast ✨
 
